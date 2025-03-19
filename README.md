@@ -58,4 +58,4 @@ This diverse background gives me a unique perspective on problem-solving and com
 
 ### 📫 Let's Connect
 
-I'm currently seeking junior fullstack developer opportunities where I can contribute my skills and continue to grow. Feel free to reach out via [LinkedIn](www.linkedin.com/in/hunter-kael-38a422230) or [email](mailto:htkael@gmail.com)!
+I'm currently seeking junior fullstack developer opportunities where I can contribute my skills and continue to grow. Feel free to reach out via  [email](mailto:htkael@gmail.com)!
