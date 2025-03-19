@@ -37,13 +37,13 @@ I'm a fullstack developer with a unique background in criminal justice and athle
 
 ### 🏆 Featured Projects
 
-#### [Facebook Clone](https://github.com/yourusername/fb-clone-frontend)
+#### [Facebook Clone](https://github.com/htkael/fb-clone-frontend)
 A fullstack social media application with real-time messaging and notifications built with React, Node.js, Express, PostgreSQL, and Socket.IO.
 
-#### [File Uploader](https://github.com/yourusername/file-uploader)
+#### [File Uploader](https://github.com/htkael/file-uploader)
 A Google Drive-inspired file management system focused on SQL database design and implementation.
 
-#### [Portfolio Site](https://github.com/yourusername/homepage)
+#### [Portfolio Site](https://github.com/htkael/homepage)
 My personal portfolio showcasing my projects and skills with custom CSS and responsive design.
 
 ### 🧰 My Background
