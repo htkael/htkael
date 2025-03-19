@@ -16,9 +16,9 @@ Former law enforcement professional and current tennis instructor transitioning 
 - Continuously improving my projects and building new ones
 
 ### 📱 Connect
-- [Portfolio](your-portfolio-url) <!-- Add when you have one -->
-- [LinkedIn](your-linkedin-url)
-- Email: your.email@example.com
+
+- [LinkedIn](www.linkedin.com/in/hunter-kael-38a422230)
+- Email: htkael@gmail.com
 
 ### 🏆 Featured Projects
 Check out my pinned repositories below to see my recent work, including a fullstack social media application with real-time messaging and notifications!
