@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hunter Kael
 
-<!--
-**htkael/htkael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Fullstack Developer
 
-Here are some ideas to get you started:
+Former law enforcement professional and current tennis instructor transitioning into tech. Recently completed The Odin Project's fullstack curriculum and built several web applications from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend**: JavaScript, React, HTML5, CSS3, Tailwind CSS
+- **Backend**: Node.js, Express
+- **Database**: SQL
+- **Tools**: Git, GitHub, VS Code, npm
+
+### 🔍 Currently
+- Seeking junior fullstack developer opportunities
+- Based in Frisco, TX (open to remote)
+- Continuously improving my projects and building new ones
+
+### 📱 Connect
+- [Portfolio](your-portfolio-url) <!-- Add when you have one -->
+- [LinkedIn](your-linkedin-url)
+- Email: your.email@example.com
+
+### 🏆 Featured Projects
+Check out my pinned repositories below to see my recent work, including a fullstack social media application with real-time messaging and notifications!
