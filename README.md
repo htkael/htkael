@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Hunter Kael
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/hunter-kael-38a422230)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:htkael@gmail.com)
 
 ## 💻 Fullstack Developer | 👮‍♂️ Former Law Enforcement | 🎾 Tennis Pro
