@@ -43,7 +43,7 @@ A fullstack social media application with real-time messaging and notifications 
 #### [File Uploader](https://github.com/htkael/file-uploader)
 A Google Drive-inspired file management system focused on SQL database design and implementation.
 
-#### [Portfolio Site](https://github.com/htkael/homepage)
+#### [Portfolio Site](https://github.com/htkael/portfolio)
 My personal portfolio showcasing my projects and skills with custom CSS and responsive design.
 
 ### 🧰 My Background
